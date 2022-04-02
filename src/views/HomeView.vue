@@ -4,7 +4,7 @@
             <div class="contenedor-pastel-elementos contenido-pagina-pricipal">
                 <h1 class="contenedor-pastel-titulo">Bienvenido a la pasteleria Javi</h1>
                 <p class="contenedor-pastel-slogan padding-5-y">Aquí Haremos el Pastel de tus Sueños Realidad</p>
-                <a href="galeria.html" class="btn btn-rosita mt-5 color-negro">Más info</a>
+                <a href="#" class="btn btn-rosita mt-5 color-negro">Más info</a>
             </div>
 
         </div>
