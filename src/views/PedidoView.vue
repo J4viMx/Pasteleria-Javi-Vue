@@ -106,6 +106,10 @@ export default {
       pedidoRealizado(){
           const notificacion = document.querySelector('.pedidoRealizado');
           notificacion.style.display = "block"
+
+          setTimeout(() => {
+              notificacion.style.display= "none"
+          }, 3000);
       }
 
   }
